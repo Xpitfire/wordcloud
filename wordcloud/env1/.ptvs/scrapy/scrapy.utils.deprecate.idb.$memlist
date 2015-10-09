@@ -1,0 +1,6 @@
+inspect
+warnings
+attribute
+_clspath
+ScrapyDeprecationWarning
+create_deprecated_class

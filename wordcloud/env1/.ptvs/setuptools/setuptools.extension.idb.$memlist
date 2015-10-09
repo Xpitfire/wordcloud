@@ -1,0 +1,9 @@
+_get_unpatched
+re
+Library
+_Extension
+functools
+Extension
+have_pyrex
+sys
+distutils

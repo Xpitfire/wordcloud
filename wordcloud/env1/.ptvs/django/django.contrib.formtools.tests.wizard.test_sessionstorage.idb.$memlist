@@ -1,0 +1,5 @@
+TestStorage
+skipIfCustomUser
+TestCase
+TestSessionStorage
+SessionStorage

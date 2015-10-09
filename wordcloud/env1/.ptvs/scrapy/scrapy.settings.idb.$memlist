@@ -1,0 +1,16 @@
+SETTINGS_PRIORITIES
+warnings
+import_module
+default_settings
+Settings
+MutableMapping
+six
+iter_default_settings
+SettingsAttribute
+ScrapyDeprecationWarning
+deprecated
+create_deprecated_class
+json
+CrawlerSettings
+_DictProxy
+overridden_settings

@@ -1,0 +1,4 @@
+warnings
+SpatialOperation
+RemovedInDjango19Warning
+SpatialFunction

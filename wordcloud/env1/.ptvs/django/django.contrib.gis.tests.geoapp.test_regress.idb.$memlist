@@ -1,0 +1,17 @@
+unicode_literals
+State
+HAS_GEOS
+no_mysql
+City
+GeoRegressionTests
+Truth
+datetime
+no_spatialite
+no_oracle
+HAS_SPATIAL_DB
+PennsylvaniaCity
+render_to_kmz
+Count
+TestCase
+skipUnless
+Min

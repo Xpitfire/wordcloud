@@ -1,0 +1,16 @@
+ScrapyJSONEncoder
+defer
+Request
+BaseTestCase
+SpiderReferencer
+Spider
+Decimal
+datetime
+CrawlerMock
+_EngineMock
+json
+JsonEncoderTestCase
+SpiderReferencerTestCase
+unittest
+ScrapyJSONDecoder
+Response

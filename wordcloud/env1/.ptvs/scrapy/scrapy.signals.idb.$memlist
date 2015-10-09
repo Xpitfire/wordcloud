@@ -1,0 +1,16 @@
+spider_idle
+item_dropped
+spider_opened
+engine_started
+stats_spider_closing
+engine_stopped
+item_scraped
+response_downloaded
+response_received
+spider_closed
+item_passed
+request_received
+request_scheduled
+stats_spider_closed
+spider_error
+stats_spider_opened

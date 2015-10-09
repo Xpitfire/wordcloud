@@ -1,0 +1,12 @@
+urlunparse
+request_httprepr
+weakref
+basic_auth_header
+canonicalize_url
+_fingerprint_cache
+hashlib
+urlparse_cached
+print_function
+request_authenticate
+Deferred
+request_fingerprint

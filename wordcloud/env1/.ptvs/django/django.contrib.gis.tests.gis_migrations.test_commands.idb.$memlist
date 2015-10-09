@@ -1,0 +1,9 @@
+override_system_checks
+override_settings
+HAS_SPATIAL_DB
+TransactionTestCase
+unicode_literals
+call_command
+skipUnless
+MigrateTests
+connection

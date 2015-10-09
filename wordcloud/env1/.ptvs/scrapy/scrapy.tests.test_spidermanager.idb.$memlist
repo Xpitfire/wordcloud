@@ -1,0 +1,11 @@
+verifyObject
+os
+module_dir
+Request
+SpiderManagerTest
+test_spiders
+shutil
+SpiderManager
+ISpiderManager
+sys
+unittest

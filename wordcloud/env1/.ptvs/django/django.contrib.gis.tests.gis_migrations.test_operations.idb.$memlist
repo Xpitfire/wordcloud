@@ -1,0 +1,14 @@
+HAS_GEOMETRY_COLUMNS
+GeometryColumns
+ProjectState
+HAS_SPATIAL_DB
+mysql
+connection
+OperationTests
+skipUnless
+TransactionTestCase
+migrations
+models
+unicode_literals
+fields
+Migration

@@ -1,0 +1,15 @@
+BasicTestCase
+CustomUser
+User
+translation
+user_model_swapped
+unicode_literals
+skipIfCustomUser
+setting_changed
+AnonymousUser
+receiver
+override_settings
+get_user_model
+apps
+TestCase
+ImproperlyConfigured

@@ -1,0 +1,11 @@
+templatetags
+tests
+views
+default_app_config
+admin
+apps
+models
+migrations
+middleware
+urls
+forms

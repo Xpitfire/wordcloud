@@ -1,0 +1,10 @@
+UtilsSpidersTestCase
+Request
+MySpider2
+MySpider1
+iter_spider_classes
+CrawlSpider
+MyBaseSpider
+iterate_spider_output
+BaseItem
+unittest

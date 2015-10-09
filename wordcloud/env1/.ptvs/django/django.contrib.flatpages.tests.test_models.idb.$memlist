@@ -1,0 +1,6 @@
+FlatPage
+set_script_prefix
+unicode_literals
+TestCase
+FlatpageModelTests
+clear_script_prefix

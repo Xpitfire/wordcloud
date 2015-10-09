@@ -1,0 +1,15 @@
+AmbiguityError
+SwappableTuple
+make_option
+BaseCommand
+connections
+Command
+MigrationOptimizer
+DEFAULT_DB_ALIAS
+six
+MigrationExecutor
+CommandError
+migrations
+MigrationWriter
+sys
+settings

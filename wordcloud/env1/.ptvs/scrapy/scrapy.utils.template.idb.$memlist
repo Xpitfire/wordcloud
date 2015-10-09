@@ -1,0 +1,6 @@
+render_templatefile
+string_camelcase
+CAMELCASE_INVALID_CHARS
+string
+os
+re

@@ -1,0 +1,11 @@
+patterns
+get_named_session_wizard
+Page4
+CookieContactWizard
+Page1
+urlpatterns
+Page3
+Page2
+get_named_cookie_wizard
+SessionContactWizard
+url

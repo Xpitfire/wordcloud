@@ -1,0 +1,12 @@
+skipUnless
+TestSRS
+CoordTransform
+bad_srlist
+well_known
+SRSException
+OGRException
+HAS_GDAL
+SpatialRefTest
+srlist
+SpatialReference
+unittest

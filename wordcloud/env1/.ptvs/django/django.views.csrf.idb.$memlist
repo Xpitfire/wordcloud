@@ -1,0 +1,7 @@
+Context
+_
+HttpResponseForbidden
+CSRF_FAILURE_TEMPLATE
+Template
+csrf_failure
+settings

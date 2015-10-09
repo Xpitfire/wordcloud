@@ -1,0 +1,15 @@
+DeprecatedXpathSelectorTest
+HtmlXPathSelector
+ScrapyDeprecationWarning
+Selector
+XmlResponse
+HtmlResponse
+warnings
+ExsltTestCase
+SelectorTestCase
+weakref
+XmlXPathSelector
+XPathSelector
+TextResponse
+re
+unittest

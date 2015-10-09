@@ -1,0 +1,11 @@
+GeoFeedTest
+HAS_SPATIAL_DB
+HAS_GEOS
+unicode_literals
+skipUnless
+modify_settings
+minidom
+TestCase
+City
+Site
+settings

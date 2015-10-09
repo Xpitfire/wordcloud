@@ -1,0 +1,9 @@
+XMLFeedSpider
+init
+feed
+Rule
+sitemap
+SitemapSpider
+CSVFeedSpider
+crawl
+CrawlSpider

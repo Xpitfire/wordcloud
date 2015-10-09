@@ -1,0 +1,17 @@
+check_zero
+GEOSException
+check_sized_string
+os
+libc
+check_predicate
+check_dbl
+c_void_p
+GEOS_VERSION
+last_arg_byref
+CDLL
+string_at
+check_geom
+check_minus_one
+free
+GEOSFunc
+check_string

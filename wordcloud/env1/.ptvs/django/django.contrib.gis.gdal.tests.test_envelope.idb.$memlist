@@ -1,0 +1,7 @@
+skipUnless
+TestPoint
+EnvelopeTest
+Envelope
+OGRException
+HAS_GDAL
+unittest

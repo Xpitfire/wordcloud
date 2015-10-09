@@ -1,0 +1,11 @@
+GEOSCoordSeq
+CS_PTR
+c_double
+GEOSIndexError
+byref
+capi
+GEOSException
+xrange
+c_uint
+GEOSBase
+numpy

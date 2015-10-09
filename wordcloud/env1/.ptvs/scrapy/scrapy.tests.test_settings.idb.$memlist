@@ -1,0 +1,11 @@
+CrawlerSettingsTest
+six
+mock
+Settings
+warnings
+CrawlerSettings
+SettingsAttributeTest
+SettingsTest
+default_settings
+SettingsAttribute
+unittest

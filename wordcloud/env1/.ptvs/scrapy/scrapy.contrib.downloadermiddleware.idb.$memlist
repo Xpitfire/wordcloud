@@ -1,0 +1,14 @@
+useragent
+robotstxt
+cookies
+chunked
+downloadtimeout
+httpcompression
+defaultheaders
+stats
+httpproxy
+httpauth
+retry
+ajaxcrawl
+httpcache
+redirect

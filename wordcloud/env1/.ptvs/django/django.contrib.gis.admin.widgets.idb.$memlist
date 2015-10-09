@@ -1,0 +1,12 @@
+logger
+Context
+six
+translation
+loader
+logging
+OpenLayersWidget
+Textarea
+OGRException
+geo_context
+GEOSException
+GEOSGeometry

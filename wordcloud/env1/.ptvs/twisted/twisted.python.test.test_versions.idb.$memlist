@@ -1,0 +1,17 @@
+sys
+VersionsTest
+Version
+BytesIO
+VERSION_9_ENTRIES
+VERSION_10_ENTRIES
+VERSION_8_ENTRIES
+FilePath
+FormatDiscoveryTests
+_inf
+division
+IncomparableVersions
+getVersionString
+operator
+TestCase
+VERSION_4_ENTRIES
+absolute_import

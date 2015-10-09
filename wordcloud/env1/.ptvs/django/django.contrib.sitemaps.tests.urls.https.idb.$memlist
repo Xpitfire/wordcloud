@@ -1,0 +1,5 @@
+SimpleSitemap
+urlpatterns
+HTTPSSitemap
+patterns
+secure_sitemaps

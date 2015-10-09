@@ -1,0 +1,8 @@
+arglist_to_dict
+ScrapyCommand
+os
+ScrapyDeprecationWarning
+warnings
+UsageError
+failure
+OptionGroup

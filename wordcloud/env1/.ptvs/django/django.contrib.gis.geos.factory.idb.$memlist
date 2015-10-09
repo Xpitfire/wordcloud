@@ -1,0 +1,7 @@
+six
+fromstr
+GEOSGeometry
+hex_regex
+wkt_regex
+fromfile
+memoryview

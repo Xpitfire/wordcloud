@@ -1,0 +1,85 @@
+﻿h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.logo {
+    width: 200px;
+    float: right;
+    margin: -70px -40px 0 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#insert-result {
+    width: 100%;
+    margin: auto;
+}
+
+.input-group {
+    width: 100%;
+    min-width: 400px;
+}
+
+.jumbotron {
+    background-color: #34495e;
+    color: #fff;
+    min-width: 365px;
+}
+
+.body-content {
+    width: 80%;
+}
+
+.page-content {
+    min-width: 100%;
+}
+
+.btn-success {
+    margin: 4px;
+    margin-bottom: 2px;
+}
+
+.form-control {
+    margin: 4px;
+    margin-left: 0;
+}
+
+.result-list {
+    width: 100%;
+    min-width: 100%;
+}
+
+.form-style {
+    margin-bottom: 20px;
+}
+
+.spinner {
+    display:none;
+    position: static;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    text-align:center;
+    z-index:1234;
+    overflow: auto;
+    width: 100px; /* width of the spinner gif */
+    height: 102px; /*hight of the spinner gif +2px to fix IE8 issue */
+}
+
+.list-group-item {
+    background-color: #fff;
+}
+
+.list-group-item:hover {
+    background-color: #eff3f9;
+}
+
+@media only screen and (max-width: 765px) {
+    .logo {
+        width: 100px;
+        margin: -30px -15px 0 0;
+    }
+}

@@ -1,0 +1,23 @@
+{% extends "app/layout.html" %}
+
+{% block content %}
+
+<div class="page-content">
+    {% if error %}
+        <p style="color: red;">Please submit a search term.</p>
+    {% endif %}
+    <form class="form-style" role="form" action="/search" method="get">
+        <div class="input-group">
+            <input type="text" class="form-control" id="keyword_input" name="searchbox" value="" placeholder="Search" />
+            <input class="btn btn-success" id="input-search-button" type="submit" value="Search" />
+        </div>
+    </form>
+    <div id="spinner" class="spinner">
+        <img id="img-spinner" src="../../static/app/img/loader.gif" alt="Loading"/>
+    </div>
+    <div class="result-list" id="result-list">
+{% block search %}{% endblock %}
+    </div>
+</div>
+
+{% endblock %}

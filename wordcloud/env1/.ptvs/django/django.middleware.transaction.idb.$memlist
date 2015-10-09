@@ -1,0 +1,6 @@
+RemovedInDjango18Warning
+transaction
+warnings
+TransactionMiddleware
+MiddlewareNotUsed
+connection

@@ -1,0 +1,9 @@
+FlatPage
+User
+os
+TestCase
+skipIfCustomUser
+FlatpageMiddlewareAppendSlashTests
+override_settings
+FlatpageMiddlewareTests
+settings

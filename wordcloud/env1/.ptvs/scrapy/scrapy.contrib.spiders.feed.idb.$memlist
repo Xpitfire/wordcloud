@@ -1,0 +1,11 @@
+XMLFeedSpider
+CSVFeedSpider
+csviter
+Selector
+Request
+Spider
+NotSupported
+xmliter
+NotConfigured
+iterate_spider_output
+BaseItem

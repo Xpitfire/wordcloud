@@ -1,0 +1,14 @@
+SignalManager
+signal
+ExtensionManager
+log
+Crawler
+install_shutdown_handlers
+CachingThreadedResolver
+defer
+ExecutionEngine
+reactor
+CrawlerProcess
+load_object
+signals
+signal_names

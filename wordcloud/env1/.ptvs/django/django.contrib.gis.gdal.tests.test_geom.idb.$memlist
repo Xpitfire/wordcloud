@@ -1,0 +1,16 @@
+xrange
+OGRGeometry
+GDAL_VERSION
+b2a_hex
+HAS_GDAL
+pickle
+OGRGeomTest
+skipUnless
+unittest
+OGRIndexError
+SpatialReference
+json
+OGRException
+TestDataMixin
+CoordTransform
+OGRGeomType

@@ -1,0 +1,10 @@
+GenericTranslator
+HTMLTranslator
+XPathExpr
+ScrapyXPathExpr
+ExpressionError
+ScrapyGenericTranslator
+ScrapyHTMLTranslator
+TranslatorMixin
+FunctionalPseudoElement
+_unicode_safe_getattr

@@ -1,0 +1,17 @@
+no_postgis
+spatialite
+oracle
+HAS_SPATIALREFSYS
+DEFAULT_DB_ALIAS
+_default_db
+no_spatialite
+mysql
+skip
+no_oracle
+HAS_SPATIAL_DB
+has_spatial_db
+no_backend
+no_mysql
+postgis
+settings
+SpatialRefSys

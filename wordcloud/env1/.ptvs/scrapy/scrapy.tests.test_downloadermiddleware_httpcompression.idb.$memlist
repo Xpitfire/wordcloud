@@ -1,0 +1,16 @@
+HttpCompressionMiddleware
+Request
+HtmlResponse
+abspath
+Spider
+SAMPLEDIR
+join
+resolve_encoding
+FORMAT
+tests_datadir
+dirname
+StringIO
+TestCase
+HttpCompressionTest
+GzipFile
+Response

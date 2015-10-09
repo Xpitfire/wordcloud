@@ -1,0 +1,13 @@
+geos_version_info
+GEOSIOTest
+HAS_GEOS
+unicode_literals
+WKTReader
+WKBReader
+skipUnless
+WKTWriter
+binascii
+GEOSGeometry
+memoryview
+WKBWriter
+unittest

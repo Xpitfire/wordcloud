@@ -1,0 +1,10 @@
+CustomUser
+User
+TransactionTestCase
+unicode_literals
+check_password
+Group
+override_settings
+ModWsgiHandlerTestCase
+groups_for_user
+skipIfCustomUser

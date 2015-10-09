@@ -1,0 +1,16 @@
+dtypes
+SDODistance
+SDODWithin
+Geometry
+re
+six
+Decimal
+SDORelate
+OracleOperations
+SDOOperation
+Distance
+DatabaseOperations
+BaseSpatialOperations
+OracleSpatialAdapter
+SDOGeomRelate
+SpatialFunction

@@ -1,0 +1,14 @@
+urlparse_cached
+HTTPClientFactory
+_parsed_url_args
+urldefrag
+time
+_parse
+ScrapyHTTPPageGetter
+defer
+urlparse
+urlunparse
+Headers
+responsetypes
+ScrapyHTTPClientFactory
+HTTPClient

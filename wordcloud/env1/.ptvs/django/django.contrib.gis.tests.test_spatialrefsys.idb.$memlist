@@ -1,0 +1,13 @@
+spatialite
+HAS_GDAL
+connection
+no_mysql
+HAS_SPATIALREFSYS
+no_oracle
+SpatialRefSysTest
+six
+test_srs
+SpatialRefSys
+oracle
+postgis
+unittest

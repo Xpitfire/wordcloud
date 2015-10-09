@@ -1,0 +1,8 @@
+unicode_literals
+_imaging
+warnings
+ImageFile
+RemovedInDjango18Warning
+_detect_image_library
+Image
+ImproperlyConfigured

@@ -1,0 +1,4 @@
+urlparse
+_urlparse_cache
+urlparse_cached
+weakref

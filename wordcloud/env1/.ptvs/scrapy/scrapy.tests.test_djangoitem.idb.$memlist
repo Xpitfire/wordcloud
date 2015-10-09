@@ -1,0 +1,14 @@
+optional_features
+IdentifiedPersonItem
+os
+IdentifiedPerson
+Field
+NewFieldPersonItem
+settings
+Person
+DjangoItem
+DjangoItemTest
+OverrideFieldPersonItem
+models
+BasePersonItem
+unittest

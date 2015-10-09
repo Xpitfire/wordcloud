@@ -1,0 +1,6 @@
+signals
+walk_modules
+iter_spider_classes
+implements
+SpiderManager
+ISpiderManager

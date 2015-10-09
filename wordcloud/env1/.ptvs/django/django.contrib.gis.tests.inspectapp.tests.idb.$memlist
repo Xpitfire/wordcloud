@@ -1,0 +1,16 @@
+connections
+InspectDbTests
+unicode_literals
+AllOGRFields
+os
+StringIO
+get_ogr_db_string
+TEST_DATA
+ogrinspect
+Driver
+HAS_SPATIAL_DB
+HAS_GDAL
+OGRInspectTest
+call_command
+TestCase
+skipUnless

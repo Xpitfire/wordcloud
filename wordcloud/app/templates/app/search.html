@@ -1,0 +1,18 @@
+{% extends "app/index.html" %}
+
+{% block search %}
+
+<h2>{{ infotxt }}</h2>
+
+<ul class="list-group" id="insert-result">
+    {% for i in linklist %}
+        <li class="list-group-item">
+            <div class="article-box">
+                <a href="{{ i.link }}"><h4 class="list-group-item-heading">{{i.title}}</h4></a>
+                <p class="source list-group-item-text">{{ i.from }}</p>
+            </div>
+        </li>
+    {% endfor %}
+</ul>
+
+{% endblock %}

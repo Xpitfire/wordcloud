@@ -1,0 +1,12 @@
+GeoIPException
+six
+os
+HAS_GEOS
+unicode_literals
+GeoIPTest
+unittest
+skipUnless
+GeoIP
+HAS_GEOIP
+GEOSGeometry
+settings

@@ -1,0 +1,13 @@
+GeographyTest
+Zipcode
+D
+os
+HAS_GEOS
+unicode_literals
+upath
+skipUnless
+HAS_GDAL
+County
+City
+TestCase
+postgis

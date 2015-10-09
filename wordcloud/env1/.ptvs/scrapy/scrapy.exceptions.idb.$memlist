@@ -1,0 +1,9 @@
+CloseSpider
+DropItem
+ScrapyDeprecationWarning
+NotConfigured
+IgnoreRequest
+UsageError
+DontCloseSpider
+ContractFail
+NotSupported

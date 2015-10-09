@@ -1,0 +1,4 @@
+DEPRECATED_SETTINGS
+warnings
+check_deprecated_settings
+ScrapyDeprecationWarning

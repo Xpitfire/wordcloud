@@ -1,0 +1,9 @@
+GeoAdminTest
+HAS_SPATIAL_DB
+HAS_GEOS
+TestCase
+skipUnless
+Point
+unicode_literals
+City
+admin

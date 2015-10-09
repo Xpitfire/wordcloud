@@ -1,0 +1,12 @@
+six
+os
+BytesIO
+unicode_literals
+force_bytes
+smart_text
+python_2_unicode_compatible
+StringIO
+ContentFile
+File
+FileProxyMixin
+UnsupportedOperation

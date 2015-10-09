@@ -1,0 +1,4 @@
+headers_dict_to_raw
+headers_raw_to_dict
+urlsafe_b64encode
+basic_auth_header

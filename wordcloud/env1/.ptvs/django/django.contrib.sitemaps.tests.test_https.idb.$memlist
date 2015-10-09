@@ -1,0 +1,6 @@
+date
+SitemapTestsBase
+unicode_literals
+HTTPSDetectionSitemapTests
+override_settings
+HTTPSSitemapTests

@@ -1,0 +1,15 @@
+mail_managers
+six
+urlquote
+RemovedInDjango18Warning
+logging
+urlresolvers
+warnings
+logger
+BrokenLinkEmailsMiddleware
+CommonMiddleware
+force_text
+http
+hashlib
+re
+settings

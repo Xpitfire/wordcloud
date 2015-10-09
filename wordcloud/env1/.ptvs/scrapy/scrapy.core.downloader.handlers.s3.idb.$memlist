@@ -1,0 +1,10 @@
+_v20_S3Connection
+optional_features
+_v19_S3Connection
+_S3Connection
+NotConfigured
+S3Connection
+urlparse_cached
+S3DownloadHandler
+HTTPDownloadHandler
+boto

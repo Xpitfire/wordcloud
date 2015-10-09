@@ -1,0 +1,7 @@
+test_templatetags
+test_middleware
+test_models
+test_csrf
+test_views
+test_forms
+urls

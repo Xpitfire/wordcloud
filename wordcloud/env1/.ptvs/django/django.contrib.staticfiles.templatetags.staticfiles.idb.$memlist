@@ -1,0 +1,7 @@
+static
+StaticFilesNode
+template
+register
+StaticNode
+do_static
+staticfiles_storage

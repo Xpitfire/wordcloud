@@ -1,0 +1,17 @@
+unicode_literals
+BytesIO
+IgnoreDeprecationWarningsMixin
+HAS_GEOS
+Country
+os
+City
+minidom
+settings
+HAS_SPATIAL_DB
+GeoSitemapTest
+upath
+TestCase
+Site
+zipfile
+skipUnless
+modify_settings

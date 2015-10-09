@@ -1,0 +1,11 @@
+python_2_unicode_compatible
+models
+ContentType
+unicode_literals
+_
+smart_text
+OperationalError
+apps
+ContentTypeManager
+force_text
+ProgrammingError

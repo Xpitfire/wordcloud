@@ -1,0 +1,12 @@
+LoginRequiredTestCase
+RequestFactory
+models
+login_required
+TestCase
+skipIfCustomUser
+AuthViewsTestCase
+HttpResponse
+permission_required
+PermissionsRequiredDecoratorTest
+PermissionDenied
+settings

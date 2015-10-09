@@ -1,0 +1,9 @@
+patterns
+Group
+User
+UserAdmin
+admin
+urlpatterns
+site
+GroupAdmin
+include

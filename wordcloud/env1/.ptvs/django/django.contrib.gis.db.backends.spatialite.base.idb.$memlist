@@ -1,0 +1,14 @@
+SpatiaLiteIntrospection
+SpatiaLiteClient
+Database
+SQLiteCursorWrapper
+six
+settings
+SpatiaLiteCreation
+SQLiteDatabaseWrapper
+SpatialiteSchemaEditor
+SpatiaLiteOperations
+DatabaseWrapper
+find_library
+sys
+ImproperlyConfigured

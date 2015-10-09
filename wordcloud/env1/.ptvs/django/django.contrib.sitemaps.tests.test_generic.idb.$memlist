@@ -1,0 +1,5 @@
+TestModel
+SitemapTestsBase
+unicode_literals
+GenericViewsSitemapTests
+override_settings

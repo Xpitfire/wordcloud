@@ -1,0 +1,12 @@
+_PY3
+pickle
+absolute_import
+threading
+threadingSkip
+SynchronizationTestCase
+division
+threadable
+SerializationTestCase
+TestObject
+sys
+unittest

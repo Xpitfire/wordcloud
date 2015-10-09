@@ -1,0 +1,16 @@
+GIcon
+Point
+unicode_literals
+LinearRing
+GOverlayBase
+mark_safe
+six
+LineString
+GMarker
+GPolyline
+total_ordering
+fromstr
+GPolygon
+python_2_unicode_compatible
+Polygon
+GEvent

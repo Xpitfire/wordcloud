@@ -1,0 +1,10 @@
+assert_samelines
+Response
+TestCase
+XmlResponse
+Spider
+DecompressionMiddlewareTest
+DecompressionMiddleware
+main
+get_testdata
+_test_data

@@ -1,0 +1,10 @@
+SomeBaseClass
+NewName
+create_deprecated_class
+absolute_import
+inspect
+warnings
+WarnWhenSubclassedTest
+MyWarning
+mock
+unittest

@@ -1,0 +1,7 @@
+test_loadstorage
+namedwizardtests
+wizardtests
+test_forms
+storage
+test_sessionstorage
+test_cookiestorage

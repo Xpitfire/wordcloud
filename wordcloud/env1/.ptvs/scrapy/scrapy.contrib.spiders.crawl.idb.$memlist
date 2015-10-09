@@ -1,0 +1,8 @@
+copy
+Rule
+HtmlResponse
+Spider
+CrawlSpider
+identity
+iterate_spider_output
+Request

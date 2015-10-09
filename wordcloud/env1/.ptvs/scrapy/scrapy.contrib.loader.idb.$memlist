@@ -1,0 +1,14 @@
+processor
+create_deprecated_class
+Selector
+extract_regex
+Item
+Identity
+common
+deprecated
+XPathItemLoader
+ItemLoader
+wrap_loader_context
+arg_to_iter
+defaultdict
+flatten

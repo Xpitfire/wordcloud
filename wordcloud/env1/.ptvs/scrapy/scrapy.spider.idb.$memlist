@@ -1,0 +1,9 @@
+BaseSpider
+ObsoleteClass
+log
+Spider
+spiders
+create_deprecated_class
+url_is_from_spider
+Request
+object_ref

@@ -1,0 +1,13 @@
+UpdateCacheMiddleware
+caches
+FetchFromCacheMiddleware
+patch_response_headers
+has_vary_header
+warnings
+learn_cache_key
+DEFAULT_CACHE_ALIAS
+CacheMiddleware
+RemovedInDjango18Warning
+get_cache_key
+get_max_age
+settings

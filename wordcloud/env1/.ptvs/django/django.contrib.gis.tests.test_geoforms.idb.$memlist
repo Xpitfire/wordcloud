@@ -1,0 +1,13 @@
+SpecializedFieldTest
+six
+GeometryFieldTest
+GEOSGeometry
+HAS_SPATIALREFSYS
+ValidationError
+skipUnless
+HAS_GDAL
+escape
+OSMWidgetTest
+SimpleTestCase
+CustomGeometryWidgetTest
+forms

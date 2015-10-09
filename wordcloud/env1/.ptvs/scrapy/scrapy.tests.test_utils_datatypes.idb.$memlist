@@ -1,0 +1,5 @@
+CaselessDictTest
+copy
+unittest
+__doctests__
+CaselessDict

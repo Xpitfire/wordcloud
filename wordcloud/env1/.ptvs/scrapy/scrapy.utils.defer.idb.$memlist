@@ -1,0 +1,14 @@
+IgnoreRequest
+task
+failure
+iter_errback
+process_chain
+process_chain_both
+defer
+defer_result
+reactor
+process_parallel
+parallel
+defer_fail
+defer_succeed
+mustbe_deferred
